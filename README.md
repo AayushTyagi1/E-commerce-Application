@@ -14,14 +14,14 @@
 - Inquiry about Items
 - Payment Gateway
 
-Expected List of Features:
+## Expected List of Features:
 
-•	A professional Design
-•	User friendly front end
-•	Scalable Backend
-•	Connect to Payment Gateway
+-	A professional Design
+-	User friendly front end
+-	Scalable Backend
+-	Connect to Payment Gateway
 
-Navigation Structure:
+## Navigation Structure:
 - HOME
 - Shop
 - Product
@@ -29,7 +29,7 @@ Navigation Structure:
 - Shipping
 - Payment
 
-Tools
+## Tools
 
 -	Web-Design using HTML and CSS
 -	User Interactivity By Java Script
