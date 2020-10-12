@@ -29,3 +29,9 @@ Navigation Structure:
 - Shipping
 - Payment
 
+Tools
+
+-	Web-Design using HTML and CSS
+-	User Interactivity By Java Script
+-	Front-end Using React and Redux
+-	API and Backend: NodeJs and MongoDB
