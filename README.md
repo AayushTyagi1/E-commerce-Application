@@ -1,2 +1,3 @@
-# E-commerce-Application
-Software Development project 
+# Ecommerce Application
+Software Development project
+
