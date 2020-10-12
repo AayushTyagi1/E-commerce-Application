@@ -35,3 +35,12 @@
 -	User Interactivity By Java Script
 -	Front-end Using React and Redux
 -	API and Backend: NodeJs and MongoDB
+
+References:
+
+- https://www.amazon.in/
+- https://www.flipkart.com/
+- https://www.myntra.com/
+- https://www.shopclues.com/
+- https://www.shopify.in/
+
